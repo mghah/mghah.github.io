@@ -25,6 +25,7 @@ coming…
 
 ## RED TIER: anyone above 60 years old, PARENTS of young children. anyone living with old people or children
 coming...
+
 <!--  You can use the [editor on GitHub](https://github.com/mghah/mghah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
