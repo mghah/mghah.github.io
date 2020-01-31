@@ -3,6 +3,11 @@ i'm NOT a medical or healthcare professional. this is NOT medical advice.
 
 USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE RISK IS YOURS.
 
+just started this page, plan to update regulartly. last updated 2020-01-30.
+
+## Links
+[good link on masks](https://findme10.com/best-coronavirus-mask/)
+
 <!--  You can use the [editor on GitHub](https://github.com/mghah/mghah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
