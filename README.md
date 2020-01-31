@@ -1,3 +1,4 @@
+last updated 2020-01-30
 # ALERTS
 **mask prices are significantly increasing online, order soon**
 
@@ -5,8 +6,6 @@
 i'm NOT a medical or healthcare professional. this is NOT medical advice.
 
 USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
-
-just started this page, plan to update regulartly. last updated 2020-01-30.
 
 ## Links
 [good link on masks](https://findme10.com/best-coronavirus-mask/)
