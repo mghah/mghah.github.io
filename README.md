@@ -15,6 +15,8 @@ just started this page, plan to update regulartly. last updated 2020-01-30.
 
 [regularly updates wiki page](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak)
 
+[by country and territory breakdown](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak_by_country_and_territory)
+
 ## GREEN TIER: healthy adults below 40 years old, meaning UN-compromised immune system, generally in good shape
 - stay/work from home
 - buy grocery, wash and cook yourself, limit order in or restaurants
