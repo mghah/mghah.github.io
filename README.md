@@ -1,3 +1,6 @@
+# ALERTS
+**mask prices are significantly increasing online, order soon**
+
 # DISCLAIMER
 i'm NOT a medical or healthcare professional. this is NOT medical advice.
 
