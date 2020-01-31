@@ -1,9 +1,9 @@
 # CORONOVIRUS STAY ALIVE
 
 ## DISCLAIMER
-i'm not a medical or health professional and this is NOT medical advice.
-USE THE INFORMATION HERE AT YOUR OWN RISK.
-100% OF THE RISK IS YOURS.
+i'm NOT a medical or healthcare professional. this is NOT medical advice.
+
+USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE RISK IS YOURS.
 
 You can use the [editor on GitHub](https://github.com/mghah/mghah.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
