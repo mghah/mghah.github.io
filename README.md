@@ -1,6 +1,4 @@
-# CORONOVIRUS STAY ALIVE
-
-## DISCLAIMER
+# DISCLAIMER
 i'm NOT a medical or healthcare professional. this is NOT medical advice.
 
 USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE RISK IS YOURS.
