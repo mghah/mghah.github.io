@@ -19,7 +19,6 @@ just started this page, plan to update regulartly. last updated 2020-01-30.
 - every time you enter your house, wash hands with soap for 20 seconds min, hot or cold
 - **stay healthy** get plenty of exercise, preferably outside, non-busy places/times (isn’t this great), run, walk, cycle... just don’t touch stuff you don’t have to, stay clear of crowds
 - build up your defenses with multivitamin + extra vitamin c
-
 - buy disposable 3M N95 masks, like [this](https://multimedia.3m.com/mws/media/218306O/particle-respirator-8000-n95.pdf) or [this for better fit](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Respirator-8511-N95-80-EA-Case/?N=5002385+3294780243&rt=rud) and wear them in public places (bus, train, grocery store, office, indoor gym)
 - _bonus trick_ : buy at minimum 20 disposable masks, mark/arrange them with distinct numbers, cycle through them one a day. Example, wear mask number 1 during day 1, mask 2 for day 2, … mask 1 for day 21 and on and on and on….
 
