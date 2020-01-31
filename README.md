@@ -1,7 +1,7 @@
 # DISCLAIMER
 i'm NOT a medical or healthcare professional. this is NOT medical advice.
 
-USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE RISK IS YOURS.
+USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 
 just started this page, plan to update regulartly. last updated 2020-01-30.
 
