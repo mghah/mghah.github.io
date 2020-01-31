@@ -13,6 +13,8 @@ just started this page, plan to update regulartly. last updated 2020-01-30.
 
 [CDC official prevention guide](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
 
+[regularly updates wiki page](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak)
+
 ## GREEN TIER: healthy below 40 years olds, meaning UN-compromised immune system, generally in good shape
 - stay/work from home
 - buy grocery, wash and cook yourself, limit order in or restaurants
