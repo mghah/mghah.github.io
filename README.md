@@ -31,7 +31,6 @@ USE THE INFORMATION Here AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 - every time you enter your house, wash hands with soap for 20 seconds min, hot or cold
 - **stay healthy** get plenty of exercise, preferably outside, non-busy places/times (isn’t this great), run, walk, cycle... just don’t touch stuff you don’t have to, stay clear of crowds
 - build up your defenses with multivitamin + extra vitamin c
-- buy this kind of mask and this is goods
 
 ## RED TIER: anyone above 60 years old, PARENTS of young children. anyone living with old people or children
 coming...
