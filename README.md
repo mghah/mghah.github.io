@@ -1,6 +1,6 @@
 last updated 2020-02-01
 # ALERTS
-[**China now has a bird flu problem too**](https://github.com/mghah/mghah.github.io/blob/master/wsj.pdf)
+**China now has a bird flu problem too**
 
 [**first confirmed case in Bay Area**](https://www.cnbc.com/2020/01/31/california-and-cdc-officials-confirm-7th-case-of-coronavirus-in-the-us.html)
 
