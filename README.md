@@ -6,7 +6,7 @@ last updated 2020-02-01
 
 [**first confirmed case in Bay Area**](https://www.cnbc.com/2020/01/31/california-and-cdc-officials-confirm-7th-case-of-coronavirus-in-the-us.html)
 
-**mask prices are significantly increasing online, order soon** mask delivery times more than month on some item on amazon
+**mask prices are significantly increasing online, order soon** mask delivery times more than month on some items on amazon
 ## DISCLAIMER
 I'm NOT a medical or healthcare professional. this is NOT medical advice.
 
