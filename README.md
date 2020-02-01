@@ -1,5 +1,7 @@
 last updated 2020-02-01
 # ALERTS
+**CURRENT TOTAL US SICK COUNT = 8**
+
 **China now has a bird flu problem too**
 
 [**first confirmed case in Bay Area**](https://www.cnbc.com/2020/01/31/california-and-cdc-officials-confirm-7th-case-of-coronavirus-in-the-us.html)
