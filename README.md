@@ -1,4 +1,4 @@
-last updated 2020-01-31
+last updated 2020-02-01
 # ALERTS
 [**China now has a bird flu problem too**](https://github.com/mghah/mghah.github.io/blob/master/wsj.pdf)
 
