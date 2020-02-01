@@ -6,7 +6,7 @@ last updated 2020-01-31
 ## DISCLAIMER
 I'm NOT a medical or healthcare professional. this is NOT medical advice.
 
-USE THE INFORMATION Here AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
+USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 
 # Links
 [good link on masks](https://findme10.com/best-coronavirus-mask/)
