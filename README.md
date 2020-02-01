@@ -1,7 +1,7 @@
-last updated 2020-01-30
+last updated 2020-01-31
 # ALERTS
+[**first confirmed case in Bay Area**](https://www.cnbc.com/2020/01/31/california-and-cdc-officials-confirm-7th-case-of-coronavirus-in-the-us.html)
 **mask prices are significantly increasing online, order soon**
-
 ## DISCLAIMER
 I'm NOT a medical or healthcare professional. this is NOT medical advice.
 
