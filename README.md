@@ -20,7 +20,7 @@ USE THE INFORMATION Here AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 ## healthy adults below 40 years old, meaning UN-compromised immune system, generally in good shape
 - stay/work from home
 - buy food, wash and cook yourself, limit order in or restaurants
-- every time you enter your house, wash hands with soap for 20 seconds min, hot or cold
+- **every time you enter your house**, wash hands with soap for 20 seconds min, hot or cold
 - **stay healthy** get plenty of exercise, preferably outside, non-busy places/times (isn’t this great), run, walk, cycle... just don’t touch stuff you don’t have to, stay clear of crowds
 - build up your defenses with multivitamin + extra vitamin c
 - buy disposable 3M N95 masks, like [this](https://multimedia.3m.com/mws/media/218306O/particle-respirator-8000-n95.pdf) or [this for better fit](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Respirator-8511-N95-80-EA-Case/?N=5002385+3294780243&rt=rud) and wear them in public places (bus, train, food store, office, indoor gym)
@@ -32,7 +32,7 @@ USE THE INFORMATION Here AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 - buy food, wash and cook yourself, limit order in or restaurants
 - **every time you enter your house**, wash hands with soap for 20 seconds min, hot or cold
 - **stay healthy** get plenty of exercise, preferably outside, non-busy places/times (isn’t this great), run, walk, cycle... just don’t touch stuff you don’t have to, stay clear of crowds
-- **every time you enter your house** clean your phone, ipad, laptop, keys, whatever else you frequently touched when you were out. use your best judgement, don't go crazy. how to clean my phone? buy strongest Isopropyl Alcohol you can find. make a one part alcohol, one part water mix and put the combined solution into an empty spray bottle (or something similar) and use a little bit together with a kitchen paper towel to clean your phone, keys, laptop...
+- **every time you enter your house** clean (meaning disinfect) your phone, ipad, laptop, keys, whatever else you frequently touched when you were out. use your best judgment, don't go crazy. how to clean your phone? buy strongest Isopropyl Alcohol you can find. make a one part alcohol, one part water mix and put the combined solution into an empty spray bottle (or something similar) and use a little bit together with a kitchen paper towel to clean your phone, keys, laptop... you could also dilute down more by adding water if you are really scared of damaging the finish on your phone.
 - build up your defenses with multivitamin + extra vitamin c
 - you likely want something better than disposable masks (like those in Green tier), i recommend [this](https://www.amazon.com/dp/B00IF7RAP8?tag=findme10usa02-20&linkCode=ogi&th=1&psc=1). but pay attention, _there are different sizes_. Also, if you buy a P100 filter for this, the air flow might be too weak and annoy you. a compromise is probably to go with P95 or any smooth/cool flow filters, they are more bearable which means you are more likely to keep the mask on.
 
