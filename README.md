@@ -13,7 +13,7 @@ I'm NOT a medical or healthcare professional. this is NOT medical advice.
 USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 
 # Charts
-![Figure_1](https://github.com/mghah/mghah.github.io/blob/master/Figure_1.png)
+![alt text](https://github.com/mghah/mghah.github.io/blob/master/Figure_1.png)
 
 # Links
 [CDC official prevention guide](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
