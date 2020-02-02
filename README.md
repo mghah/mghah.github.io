@@ -1,6 +1,6 @@
 last updated 2020-02-01
 # ALERTS
-**CURRENT TOTAL US SICK COUNT = 8**
+**CURRENT TOTAL US SICK COUNT = 8+1(maybe)**
 
 **China now has a bird flu problem too** far deadlier than coronavirus
 
