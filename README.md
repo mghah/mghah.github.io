@@ -12,6 +12,8 @@ I'm NOT a medical or healthcare professional. this is NOT medical advice.
 
 USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 
+![alt text]()
+
 # Links
 [CDC official prevention guide](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
 
