@@ -1,6 +1,8 @@
-last updated 2020-02-01
+last updated 2020-02-02
 # ALERTS
 **CURRENT TOTAL US SICK COUNT = 8+1(maybe)**
+
+**"around 20% of those reported to be infected become SEVERELY ill"** source: [economist] paid version to see full article (https://www.economist.com/international/2020/01/30/how-do-you-contain-a-global-epidemic-such-as-coronavirus)
 
 **first death out of China**
 
