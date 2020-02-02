@@ -20,9 +20,9 @@ USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 ![Fig_1](assets/Fig_1.png)
 
 # Links
-[if you like visuals, you want to read this](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
-
 [CDC official prevention guide](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
+
+[if you like visuals, you want to read this](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 
 [good link on masks](https://findme10.com/best-coronavirus-mask/)
 
