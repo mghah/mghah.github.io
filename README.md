@@ -2,7 +2,7 @@ last updated 2020-02-02
 
 [READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
-**CURRENT TOTAL US SICK COUNT = 9**
+**CURRENT TOTAL US SICK COUNT = 11 (likely 14)**
 
 **2 sick in Bay Area, 4 total in California**
 
