@@ -4,7 +4,7 @@ last updated 2020-02-02
 # ALERTS
 **CURRENT TOTAL US SICK COUNT = 11 (likely 14)**
 
-**2 sick in Bay Area, 4 total in California**
+**2 sick in Bay Area, 6 total in California**
 
 **"around 20% of those reported to be infected become SEVERELY ill"** source: [economist](https://www.economist.com/international/2020/01/30/how-do-you-contain-a-global-epidemic-such-as-coronavirus) need paid account to see full article
 
