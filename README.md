@@ -1,4 +1,6 @@
 last updated 2020-02-02
+
+[READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
 **CURRENT TOTAL US SICK COUNT = 9**
 
@@ -13,19 +15,14 @@ last updated 2020-02-02
 I'm NOT a medical or healthcare professional. this is NOT medical advice.
 
 USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
-
 # Charts
 ![Fig_1](assets/Fig_1.png)
-
 # Links
 [CDC official prevention guide](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
-
-[if you like visuals, you want to read this](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 
 [good link on masks](https://findme10.com/best-coronavirus-mask/)
 
 [by country and territory breakdown wiki page](https://en.wikipedia.org/wiki/2019%E2%80%9320_Wuhan_coronavirus_outbreak_by_country_and_territory)
-
 # GREEN TIER:
 ## healthy adults below 40 years old, meaning UN-compromised immune system, generally in good shape
 - stay/work from home
@@ -35,7 +32,6 @@ USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 - build up your defenses with multivitamin + extra vitamin c
 - buy disposable 3M N95 masks, like [**this**](https://multimedia.3m.com/mws/media/218306O/particle-respirator-8000-n95.pdf) or [**this for better fit**](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/3M-Particulate-Respirator-8511-N95-80-EA-Case/?N=5002385+3294780243&rt=rud) and wear them in public places (bus, train, food store, office, indoor gym)
 - _bonus trick_ : buy at minimum 20 disposable masks, mark/arrange them with distinct numbers, cycle through them one a day. Example, wear mask number 1 during day 1, mask 2 for day 2, … mask 1 for day 21 and on and on and on….
-
 # YELLOW TIER:
 ## extra cautious healthy adults below 40 years old, super healthy 40-60 year olds, super healthy meaning UN-compromised immune system, balanced weight, balanced diet, regular exercise
 - stay/work from home
@@ -45,7 +41,6 @@ USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 - **stay healthy** get plenty of exercise, preferably outside, non-busy places/times (isn’t this great), run, walk, cycle... just don’t touch stuff you don’t have to, stay clear of crowds
 - build up your defenses with multivitamin + extra vitamin c
 - you likely want something better than disposable masks (like those in Green tier), i recommend [**this**](https://www.amazon.com/dp/B00IF7RAP8?tag=findme10usa02-20&linkCode=ogi&th=1&psc=1). but pay attention, _there are different sizes_. Also, if you buy a P100 filter for this, the air flow might be too weak and annoy you. a compromise is probably to go with P95 or any smooth/cool flow filters, they are more bearable which means you are more likely to keep the mask on.
-
 # RED TIER:
 ## anyone above 60 years old, PARENTS of young children. anyone living with old people or children
 coming...
