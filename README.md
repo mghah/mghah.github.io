@@ -6,6 +6,8 @@ last updated 2020-02-03
 
 [**"testing dozens of other possible cases in US, NY Times"**](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
 
+[**CDC expects sick numbers to grow**](https://www.msn.com/en-us/news/us/as-coronavirus-cases-spread-across-california-cdc-warns-count-will-keep-growing/ar-BBZCl5e)
+
 **2 sick in Bay Area, 6 total in California**
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
