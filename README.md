@@ -2,15 +2,13 @@ last updated 2020-02-02
 # ALERTS
 **CURRENT TOTAL US SICK COUNT = 9**
 
+**2 sick in Bay Area, 4 total in California**
+
 **"around 20% of those reported to be infected become SEVERELY ill"** source: [economist](https://www.economist.com/international/2020/01/30/how-do-you-contain-a-global-epidemic-such-as-coronavirus) need paid account to see full article
 
 **first death out of China**
 
-**China now has a bird flu problem too** far deadlier than coronavirus
-
-[**first confirmed case in Bay Area**](https://www.cnbc.com/2020/01/31/california-and-cdc-officials-confirm-7th-case-of-coronavirus-in-the-us.html)
-
-**mask prices are significantly increasing online, order soon** mask delivery times more than month on some items on amazon
+**mask prices are significantly increasing online, order soon** mask delivery times more than month on some items on amazon, outside USA, reports of complete mask selloff online.
 ## DISCLAIMER
 I'm NOT a medical or healthcare professional. this is NOT medical advice.
 
