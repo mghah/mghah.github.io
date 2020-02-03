@@ -1,4 +1,4 @@
-last updated 2020-02-02
+last updated 2020-02-03
 
 [READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
