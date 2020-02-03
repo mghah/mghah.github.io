@@ -4,6 +4,8 @@ last updated 2020-02-03
 # ALERTS
 **CURRENT TOTAL US SICK COUNT = 11 (likely 14)**
 
+[**"testing dozens of other possible cases in US, NY Times"**](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
+
 **2 sick in Bay Area, 6 total in California**
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
