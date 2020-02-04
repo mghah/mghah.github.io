@@ -12,6 +12,8 @@ last updated 2020-02-03
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
 
+[**first death in Hong Kong, 39-year old man**](https://www.cnbc.com/2020/02/04/coronavirus-latest-updates-china-hubei.html)
+
 **first death out of China**
 
 **mask prices are significantly increasing online, order soon** mask delivery times more than month on some items on amazon, outside USA, reports of complete mask selloff online.
