@@ -6,7 +6,7 @@ last updated 2020-02-04
 
 **2 sick in Bay Area, 6 total in California**
 
-[**airports and hubs lost at see, scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
+[**airports and hubs lost at sea, scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
 
 [**scientists and health officials know very little about this thing, quote from Harvard University:"we are dealing with a serious and novel pathogen"**](https://www.health.harvard.edu/blog/the-new-coronavirus-what-we-do-and-dont-know-2020012518747)
 
