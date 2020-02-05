@@ -1,8 +1,10 @@
-last updated 2020-02-04
+last updated 2020-02-05
 
 [READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
-**CURRENT TOTAL US SICK COUNT = 11 (likely 13, tests pending)**
+**CURRENT CONFIRMED TOTAL US SICK COUNT = 12 (likely 14, tests pending)**
+
+[**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
 
 **2 sick in Bay Area, 6 total in California**
 
