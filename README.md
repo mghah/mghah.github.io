@@ -1,14 +1,19 @@
-last updated 2020-02-03
+last updated 2020-02-04
 
 [READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
-**CURRENT TOTAL US SICK COUNT = 11 (likely 14)**
+**CURRENT TOTAL US SICK COUNT = 11 (likely 13, tests pending)**
+
+**2 sick in Bay Area, 6 total in California**
+
+[**scientists and health officials know very little about this thing, quote from Harvard University:"we are dealing with a serious and novel pathogen"**](https://www.health.harvard.edu/blog/the-new-coronavirus-what-we-do-and-dont-know-2020012518747)
+
+[**"deaths in China rise with no sign of slowdown", NY Times**](https://www.nytimes.com/2020/02/04/world/asia/coronavirus-china.html?action=click&pgtype=Article&state=default&module=styln-coronavirus-us&variant=show&region=TOP_BANNER&context=storyline_menu)
 
 [**"testing dozens of other possible cases in US, NY Times"**](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
 
 [**CDC expects sick numbers to grow**](https://www.msn.com/en-us/news/us/as-coronavirus-cases-spread-across-california-cdc-warns-count-will-keep-growing/ar-BBZCl5e)
 
-**2 sick in Bay Area, 6 total in California**
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
 
