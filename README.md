@@ -12,6 +12,8 @@ last updated 2020-02-06
 
 **The new coronavirus has been confirmed in a BABY just 36 hours after its birth, China’s official media said.** source:[irish independent](https://www.independent.ie/world-news/chinese-newborn-tests-positive-for-coronavirus-38932928.html)
 
+**mass quarantine in Wuhan but unclear if there is even basic care**(https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html?emc=rss&partner=rss)
+
 **8-Hundred Americans coming from China in Military Quarantines**, source:[haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
 
 **China Clamps Down on Coronavirus Coverage as Cases Surge**, source:[ny times](https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html?emc=rss&partner=rss)
