@@ -16,11 +16,12 @@ little dated: [some plots and visuals of data](https://www.nytimes.com/interacti
 
 [**airports and hubs scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
 
+**8-Hundred Americans coming from China in Military Quarantines**, source:[Haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
+
 **The new coronavirus has been confirmed in a BABY just 36 hours after its birth, China’s official media said.** source:[irish independent](https://www.independent.ie/world-news/chinese-newborn-tests-positive-for-coronavirus-38932928.html)
 
 **mass quarantine in Wuhan but unclear if there is even basic care** source:[NY times](https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html?emc=rss&partner=rss)
 
-**8-Hundred Americans coming from China in Military Quarantines**, source:[Haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
 
 **China Clamps Down on Coronavirus Coverage as Cases Surge**, source:[NY times](https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html?emc=rss&partner=rss)
 
