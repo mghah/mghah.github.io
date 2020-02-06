@@ -1,9 +1,8 @@
 last updated 2020-02-06
 
-[READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
-
 [good wiki guide with pics on prevention](https://www.wikihow.com/Prevent-Coronavirus)
 
+[READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
 **CURRENT CONFIRMED TOTAL US SICK COUNT = 12 (likely 14, tests pending)**
 
