@@ -1,6 +1,9 @@
-last updated 2020-02-05
+last updated 2020-02-06
 
 [READ THIS](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
+
+[good wiki guide with pics on prevention](https://www.wikihow.com/Prevent-Coronavirus)
+
 # ALERTS
 **CURRENT CONFIRMED TOTAL US SICK COUNT = 12 (likely 14, tests pending)**
 
@@ -12,23 +15,14 @@ last updated 2020-02-05
 
 [**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
 
-
 [**airports and hubs lost at sea, scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
 
-[**scientists and health officials know very little about this thing, quote from Harvard University:"we are dealing with a serious and novel pathogen"**](https://www.health.harvard.edu/blog/the-new-coronavirus-what-we-do-and-dont-know-2020012518747)
-
-[**"deaths in China rise with no sign of slowdown", NY Times**](https://www.nytimes.com/2020/02/04/world/asia/coronavirus-china.html?action=click&pgtype=Article&state=default&module=styln-coronavirus-us&variant=show&region=TOP_BANNER&context=storyline_menu)
-
 [**"testing dozens of other possible cases in US, NY Times"**](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
-
-[**CDC expects sick numbers to grow**](https://www.msn.com/en-us/news/us/as-coronavirus-cases-spread-across-california-cdc-warns-count-will-keep-growing/ar-BBZCl5e)
-
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
 
 [**first death in Hong Kong, 39-year old man**](https://www.cnbc.com/2020/02/04/coronavirus-latest-updates-china-hubei.html)
 
-**first death out of China**
 
 **mask prices are significantly increasing online, order soon** mask delivery times more than month on some items on amazon, outside USA, reports of complete mask selloff online.
 ## DISCLAIMER
