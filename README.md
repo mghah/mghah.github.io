@@ -12,17 +12,17 @@ last updated 2020-02-06
 
 **The new coronavirus has been confirmed in a BABY just 36 hours after its birth, China’s official media said.** source:[irish independent](https://www.independent.ie/world-news/chinese-newborn-tests-positive-for-coronavirus-38932928.html)
 
-**mass quarantine in Wuhan but unclear if there is even basic care** source:[NY Times](https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html?emc=rss&partner=rss)
+**mass quarantine in Wuhan but unclear if there is even basic care** source:[NY times](https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html?emc=rss&partner=rss)
 
-**8-Hundred Americans coming from China in Military Quarantines**, source:[haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
+**8-Hundred Americans coming from China in Military Quarantines**, source:[Haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
 
-**China Clamps Down on Coronavirus Coverage as Cases Surge**, source:[ny times](https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html?emc=rss&partner=rss)
+**China Clamps Down on Coronavirus Coverage as Cases Surge**, source:[NY times](https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html?emc=rss&partner=rss)
 
-[**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
+**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**, source:[CNBC](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
 
 [**airports and hubs lost at sea, scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
 
-[**"testing dozens of other possible cases in US, NY Times"**](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
+**"testing dozens of other possible cases in US, NY Times"**, source:[NY times](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
 
