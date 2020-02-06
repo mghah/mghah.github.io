@@ -4,6 +4,10 @@ last updated 2020-02-05
 # ALERTS
 **CURRENT CONFIRMED TOTAL US SICK COUNT = 12 (likely 14, tests pending)**
 
+**8-Hundred Americans coming from China in Military Quarantines**, source:[haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
+
+**China Clamps Down on Coronavirus Coverage as Cases Surge**, source:[ny times](https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html?emc=rss&partner=rss)
+
 [**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
 
 **2 sick in Bay Area, 6 total in California**
