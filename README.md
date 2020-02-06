@@ -2,7 +2,7 @@ last updated 2020-02-06
 
 [good wiki guide with pics on prevention](https://www.wikihow.com/Prevent-Coronavirus)
 
-[W.H.O coronavirus mythbusters on pinterest]https://www.pinterest.ch/worldhealthorganization/2019-ncov-new-coronavirus/
+[W.H.O coronavirus mythbusters on pinterest](https://www.pinterest.ch/worldhealthorganization/2019-ncov-new-coronavirus/)
 
 [some plots and visuals of data](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
