@@ -1,2 +1,6 @@
 title: [CORONAVIRUS STAY ALIVE]
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+% Google Analytics
+google_analytics: UA-158031748-1
