@@ -1,14 +1,18 @@
-last updated 2020-02-06
+last updated 2020-02-08
 
 [good wiki guide with pics on prevention](https://www.wikihow.com/Prevent-Coronavirus)
 
-[W.H.O coronavirus mythbusters on pinterest](https://www.pinterest.ch/worldhealthorganization/2019-ncov-new-coronavirus/)
-
 little dated: [some plots and visuals of data](https://www.nytimes.com/interactive/2020/world/asia/china-coronavirus-contain.html)
 # ALERTS
-**CURRENT CONFIRMED TOTAL US SICK COUNT = 12 (likely 14, tests pending)**
+**CURRENT CONFIRMED TOTAL US SICK COUNT = 12 (likely 16, tests pending)**
 
 **2 sick in Bay Area, 6 total in California**
+
+**young healthy people get sick, super-spreaders suspected, 26% progress to severe respiratory and inflammatory symptoms, need intensive care**, source:[NY Times](https://www.nytimes.com/2020/02/07/health/coronavirus-patients.html)
+
+**Canada confirms case 7**, source:[cnbc](https://www.cnbc.com/2020/02/08/coronavirus-live-updates-us-citizen-dies-in-wuhan.html)
+
+**5 brits get it in a sky resort in france, with no direct connection to any epicenter**, source:[haaretz](https://www.haaretz.com/world-news/wires/1.8507434)
 
 **"testing dozens of other possible cases in US, NY Times"**, source:[NY times](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
 
@@ -17,6 +21,10 @@ little dated: [some plots and visuals of data](https://www.nytimes.com/interacti
 [**airports and hubs scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
 
 **8-Hundred Americans coming from China in Military Quarantines**, source:[Haaretz](https://www.haaretz.com/world-news/wires/1.8501129)
+
+**10 Wuhan professors demanding freedom of speech to report accurately**, source:[reddit](https://www.reddit.com/r/worldnews/comments/f0vrke/10_wuhan_professors_signed_an_open_letter/)
+
+**coronavirus May Be Spreading Undetected in Indonesia, Thailand**, source:[voa](https://www.voanews.com/science-health/coronavirus-outbreak/experts-warn-coronavirus-may-be-spreading-undetected-indonesia)
 
 **The new coronavirus has been confirmed in a BABY just 36 hours after its birth, China’s official media said.** source:[irish independent](https://www.independent.ie/world-news/chinese-newborn-tests-positive-for-coronavirus-38932928.html)
 
