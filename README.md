@@ -1,4 +1,4 @@
-last updated 2020-02-08
+last updated 2020-02-09
 
 [good wiki guide with pics on prevention](https://www.wikihow.com/Prevent-Coronavirus)
 
@@ -8,15 +8,23 @@ little dated: [some plots and visuals of data](https://www.nytimes.com/interacti
 
 **2 sick in Bay Area, 6 total in California**
 
-**young healthy people get sick, super-spreaders suspected, 26% progress to severe respiratory and inflammatory symptoms, need intensive care**, source:[NY Times](https://www.nytimes.com/2020/02/07/health/coronavirus-patients.html)
+**WHO director-general: "spread outside china COULD ACCELERATE"**, [link to tweet](https://twitter.com/DrTedros/status/1226628381141340163?s=20)
+
+**expert: "definitely too late to stop spread of coronavirus" (due to travel)**, source:[ny post](https://nypost.com/2020/02/09/definitely-too-late-to-stop-spread-of-coronavirus-expert-says/)
+
+**HIGHEST daily dead count so far in China, 97 dead**, source:[ny times](https://www.nytimes.com/2020/02/10/world/asia/coronavirus-china.html?emc=r)
+
+**SIGNIFICANT UNDER REPORTING of cases and deaths, esp among elderly**, source:[Caijing--reputable from china](https://t.co/7rM69CWPkF?amp=1)
+
+**young healthy people get sick, super-spreaders suspected, 26% progress to severe respiratory and inflammatory symptoms, need intensive care**, source:[ny times](https://www.nytimes.com/2020/02/07/health/coronavirus-patients.html)
 
 **Canada confirms case 7**, source:[cnbc](https://www.cnbc.com/2020/02/08/coronavirus-live-updates-us-citizen-dies-in-wuhan.html)
 
 **5 brits get it in a sky resort in france, with no direct connection to any epicenter**, source:[haaretz](https://www.haaretz.com/world-news/wires/1.8507434)
 
-**"testing dozens of other possible cases in US, NY Times"**, source:[NY times](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
+**"testing dozens of other possible cases in US"**, source:[ny times](https://www.nytimes.com/2020/02/03/us/coronavirus-united-states-cases.html)
 
-**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**, source:[CNBC](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
+**Epidemiologist warns lawmakers: US can’t keep coronavirus ‘out of our border’**, source:[cnbc](https://www.cnbc.com/2020/02/05/coronavirus-live-updates.html)
 
 [**airports and hubs scrambling to implement travel restrictions**](https://www.wmur.com/article/airport-officials-scramble-to-meet-the-demands-of-new-coronavirus-travel-rules/30772263#)
 
@@ -30,16 +38,11 @@ little dated: [some plots and visuals of data](https://www.nytimes.com/interacti
 
 **mass quarantine in Wuhan but unclear if there is even basic care** source:[NY times](https://www.nytimes.com/2020/02/06/world/asia/coronavirus-china.html?emc=rss&partner=rss)
 
-
 **China Clamps Down on Coronavirus Coverage as Cases Surge**, source:[NY times](https://www.nytimes.com/2020/02/05/world/asia/china-coronavirus-censorship.html?emc=rss&partner=rss)
-
-
-
 
 **"around 25% of those reported to be infected become SEVERELY ill"** source: [NIH doctor](https://www.cnbc.com/2020/02/03/nih-dr-anthony-fauci-25percent-of-china-coronavirus-cases-very-serious.html)
 
 [**first death in Hong Kong, 39-year old man**](https://www.cnbc.com/2020/02/04/coronavirus-latest-updates-china-hubei.html)
-
 
 **mask prices are significantly increasing online, order soon** mask delivery times more than month on some items on amazon, outside USA, reports of complete mask selloff online.
 ## DISCLAIMER
@@ -49,6 +52,8 @@ USE THE INFORMATION HERE AT YOUR OWN RISK. 100% OF THE LIABILITY IS YOURS.
 # Charts
 ![Fig_1](assets/Fig_1.png)
 # Links
+[Twitter list I compiled from credible sources that regularly update on coronavirus, WARNING: graphic content from one account](https://twitter.com/i/lists/1164026483431501824?s=20)
+
 [CDC official prevention guide](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html)
 
 [good link on masks](https://findme10.com/best-coronavirus-mask/)
