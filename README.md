@@ -10,9 +10,9 @@ little dated: [some plots and visuals of data](https://www.nytimes.com/interacti
 
 **WHO director-general: "spread outside china COULD ACCELERATE"**, [link to tweet](https://twitter.com/DrTedros/status/1226628381141340163?s=20)
 
-**expert: "definitely too late to stop spread of coronavirus" (due to travel)**, source:[ny post](https://nypost.com/2020/02/09/definitely-too-late-to-stop-spread-of-coronavirus-expert-says/)
+**expert: "definitely too late" to stop spread of coronavirus (due to travel)**, source:[ny post](https://nypost.com/2020/02/09/definitely-too-late-to-stop-spread-of-coronavirus-expert-says/)
 
-**HIGHEST daily dead count so far in China, 97 dead**, source:[ny times](https://www.nytimes.com/2020/02/10/world/asia/coronavirus-china.html?emc=r)
+**HIGHEST daily dead count in China, 97 dead**, source:[ny times](https://www.nytimes.com/2020/02/10/world/asia/coronavirus-china.html?emc=r)
 
 **SIGNIFICANT UNDER REPORTING of cases and deaths, esp among elderly**, source:[Caijing--reputable from china](https://t.co/7rM69CWPkF?amp=1)
 
